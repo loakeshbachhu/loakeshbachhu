@@ -4,7 +4,7 @@
 ## I'm a Husband, Father, Full-Stack Developer & Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and Git-Hub Commits
+- 🥅 2022 Goals: Contribute more to Open Source projects and Git-Hub Commits
 - ⚡ Fun fact: I love to Explore, Hike, Run!!
 
 
