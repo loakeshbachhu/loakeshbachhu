@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Loki - aka Loakesh Bachhu 
 
 
-## I'm a Husband, Father, Full-Stack Developer & Learner!!
+## I'm a Husband, Father, Software Engineer & Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects and Git-Hub Commits
